@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Visa</string>
+
+    <string name="home">首页</string>
+    <string name="found">发现</string>
+    <string name="problem">常见问题</string>
+    <string name="my_visa">我的签证</string>
+
+    <string name="dhcc_progress_dialog_image_loading">加载中......</string>
+    <!-- Alert弹出框 -->
+    <string name="dialog_default_title">这是一条消息！</string>
+    <string name="dialog_ok">确 定</string>
+    <string name="dialog_cancel">取 消</string>
+    <string name="LOADING">加载...</string>
+    <string name="default_progressbar">Default Progressbar:</string>
+    <string name="default_dialog_info">您的一卡通未关联任何一卡通卡片，请关联卡片或使用一卡通登录购买产品</string>
+</resources>
